@@ -1,3 +1,8 @@
-1. Requests
-2. Delivery stations
-3.
+Make a table for each: PRIMARY KEY IN CAPS
+
+
+1. Requests(REQUEST_ID, sandwich_id, station_id, customer_id) Narinder
+2. Delivery stations(STATION_ID, city) Aastha
+3. Sandwich Menu(SANDWICH_ID, name, price) Ming Ho
+4. Customer Database(CUSTOMER_ID, firstname, lastname, email) Leo
+
